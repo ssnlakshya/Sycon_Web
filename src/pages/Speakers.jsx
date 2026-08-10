@@ -114,7 +114,7 @@ export default function Speakers() {
                 </div>
                 <div className="flex items-start gap-3 text-slate-300">
                   <span className="font-mono text-accent-400 font-bold">✓</span>
-                  <span>Official SYcon '26 Badge & Kit</span>
+                  <span>Official SYCON '26 Badge & Kit</span>
                 </div>
               </div>
             </div>
@@ -123,7 +123,7 @@ export default function Speakers() {
             <div className="border border-white/15 bg-navy-900/90 p-8 shadow-2xl relative">
               <div className="flex items-center justify-between border-b border-white/10 pb-4">
                 <span className="font-mono text-xs font-bold uppercase tracking-widest text-accent-400">
-                  SYcon '26 Pass
+                  SYCON '26 Pass
                 </span>
                 <span className="font-mono text-[10px] bg-accent-500/20 text-accent-300 border border-accent-500/30 px-2 py-0.5 uppercase tracking-wider font-semibold">
                   Starts at ₹299

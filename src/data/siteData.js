@@ -1,4 +1,4 @@
-// ─── Central placeholder content for SYcon'26 ───────────────────────────────
+// ─── Central placeholder content for SYCON'26 ───────────────────────────────
 // Swap the values here (and drop real images into /public/images/...) once
 // real assets/copy are ready. Every page reads from this single file.
 
@@ -79,7 +79,7 @@ export const TIMELINE = [
 export const GALLERY_IMAGES = Array.from({ length: 10 }, (_, i) => ({
   id: i + 1,
   src: `https://placehold.co/480x320/10141f/f9622c?text=SYCON+%2725+%E2%80%94+${i + 1}`,
-  alt: `Photo from a previous SYcon edition, frame ${i + 1}`,
+  alt: `Photo from a previous SYCON edition, frame ${i + 1}`,
 }))
 
 export const SPEAKERS = [

@@ -46,7 +46,7 @@ export default function Committee() {
             transition={{ duration: 0.6, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
             className="mx-auto max-w-2xl text-lg sm:text-xl text-navy-700/70 leading-relaxed"
           >
-            Meet the core team and vertical heads behind SYcon'26. We execute on budget, speaker procurement, and handling the day-of chaos.
+            Meet the core team and vertical heads behind SYCON'26. We execute on budget, speaker procurement, and handling the day-of chaos.
           </motion.p>
         </div>
       </section>

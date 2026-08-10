@@ -56,7 +56,7 @@ export default function Navbar() {
             <div className="flex flex-col">
               <div className="flex items-baseline gap-1">
                 <span className="font-display text-lg sm:text-xl font-bold tracking-tight text-ink">
-                  SYcon
+                  SYCON
                 </span>
                 <span className="kicker text-[11px] font-bold text-accent-600">/26</span>
               </div>
